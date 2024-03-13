@@ -15,7 +15,8 @@
 #### In-store data presents information about retail businesses' in-store activities and metrics such as footfall traffic (people counting), customer behavior, sales data, customer buying patterns, and product stocks. Data analytics is the science of analyzing raw data to make conclusions about that information. Data analytics help a business optimize its performance, perform more efficiently, maximize profit, or make strategically-guided decisions. They are primarily responsible for interpreting and analyzing vast datasets.
 #### Adult Clothing Store wants to create an annual sales report for 2022. So that, Clothing Store can understand their customers and grow more sales in 2023.
 
-![Dashborad Snip](https://github.com/Jotrwt/Adult-Clothing-Store/assets/156798137/4d6d623b-e8c8-4fca-b0c0-261d65c3c702)
+![Clothing Store Dashboard Snip](https://github.com/Jotrwt/Adult-Clothing-Store/assets/156798137/95621ec0-c7ae-49a2-8ef7-b1ad4818e03d)
+
 
 
 ### Data Sources
